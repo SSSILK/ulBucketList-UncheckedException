@@ -14,5 +14,8 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int [] a = {1,2,3};
+        System.out.println(a[3]);
+
     }
 }
